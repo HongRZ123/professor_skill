@@ -1,0 +1,15 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "deep-learning-skills",
+  "version": "0.2.0",
+  "description": "以深入访谈和资料研究建立持续课程，由教授编写完整课堂，由私教处理实际疑难，并维护可接续的课程文件。",
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "深入学习：教授与私教",
+        "shortDescription": "研究驱动的完整课堂与个别辅导",
+        "category": "Productivity"
+      }
+    }
+  }
+}

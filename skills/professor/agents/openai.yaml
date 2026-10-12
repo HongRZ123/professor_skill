@@ -1,0 +1,4 @@
+interface:
+  display_name: "教授"
+  short_description: "深入访谈、资料研究与完整课堂，维护可持续接续的学习工作区"
+  default_prompt: "使用 $professor 围绕我给出的主题建立课程，先确认工作区并开始访谈。"
